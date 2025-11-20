@@ -1,2 +1,2 @@
 Build a set of Playing Cards project on freeCodeCamp.com for the Certified Full Stack Developer Curriculum.<br>
-This project can be viewed at https://hmdoubles.github.io/Playing-Cards/.
+This project can be viewed at https://hmdoubles.github.io/Playing-Cards/
